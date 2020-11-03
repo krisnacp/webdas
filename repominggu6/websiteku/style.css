@@ -1,0 +1,35 @@
+footer {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px, solid;
+    border-color: black;
+}
+
+th {
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+td {
+    background-color: khaki;
+}
+
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornflowerblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+.active {
+    background-color: #4caf54;
+  }
